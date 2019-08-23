@@ -9,3 +9,14 @@ C:\Users\mgscu\source\repos\tests\tests\obj\Debug\netcoreapp2.1\tests.AssemblyIn
 C:\Users\mgscu\source\repos\tests\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
 C:\Users\mgscu\source\repos\tests\tests\obj\Debug\netcoreapp2.1\tests.dll
 C:\Users\mgscu\source\repos\tests\tests\obj\Debug\netcoreapp2.1\tests.pdb
+C:\0-Docs\0-Code\basic-data-structures\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+C:\0-Docs\0-Code\basic-data-structures\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+C:\0-Docs\0-Code\basic-data-structures\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+C:\0-Docs\0-Code\basic-data-structures\tests\bin\Debug\netcoreapp2.1\tests.dll
+C:\0-Docs\0-Code\basic-data-structures\tests\bin\Debug\netcoreapp2.1\tests.pdb
+C:\0-Docs\0-Code\basic-data-structures\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+C:\0-Docs\0-Code\basic-data-structures\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+C:\0-Docs\0-Code\basic-data-structures\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+C:\0-Docs\0-Code\basic-data-structures\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+C:\0-Docs\0-Code\basic-data-structures\tests\obj\Debug\netcoreapp2.1\tests.dll
+C:\0-Docs\0-Code\basic-data-structures\tests\obj\Debug\netcoreapp2.1\tests.pdb

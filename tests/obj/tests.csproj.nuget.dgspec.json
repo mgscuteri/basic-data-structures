@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgscu\\source\\repos\\tests\\tests\\tests.csproj": {}
+    "C:\\0-Docs\\0-Code\\basic-data-structures\\tests\\tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgscu\\source\\repos\\tests\\tests\\tests.csproj": {
+    "C:\\0-Docs\\0-Code\\basic-data-structures\\tests\\tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgscu\\source\\repos\\tests\\tests\\tests.csproj",
+        "projectUniqueName": "C:\\0-Docs\\0-Code\\basic-data-structures\\tests\\tests.csproj",
         "projectName": "tests",
-        "projectPath": "C:\\Users\\mgscu\\source\\repos\\tests\\tests\\tests.csproj",
+        "projectPath": "C:\\0-Docs\\0-Code\\basic-data-structures\\tests\\tests.csproj",
         "packagesPath": "C:\\Users\\mgscu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgscu\\source\\repos\\tests\\tests\\obj\\",
+        "outputPath": "C:\\0-Docs\\0-Code\\basic-data-structures\\tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

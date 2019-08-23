@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mgscu\\source\\repos\\tests\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\0-Docs\\0-Code\\basic-data-structures\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\mgscu\\source\\repos\\tests\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\0-Docs\\0-Code\\basic-data-structures\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\mgscu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mgscu\\source\\repos\\tests\\WebApi\\obj\\",
+      "outputPath": "C:\\0-Docs\\0-Code\\basic-data-structures\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -23,7 +23,7 @@ namespace tests
         public void AddNeighbor(GraphNode newNeighbor)
         {   
             this.Neighbors.Add(newNeighbor);
-            newNeighbor.Neighbors.Add(newNeighbor);
+            newNeighbor.Neighbors.Add(this);
         }
 
         public bool DepthFirstSearch(GraphNode DestNode, HashSet<GraphNode> visited)
